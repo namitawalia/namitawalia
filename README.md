@@ -1,7 +1,7 @@
 
 
 <div align="center"> <img src="https://raw.githubusercontent.com/namitawalia/namitawalia/main/github banner.png"> </div>
-<h3 align="center">I help @Treebo in revenue growth by price optimization. I aspire to be a business analyst.</h3>
+<h3 align="center">I help @Treebo in Revenue growth by Price Optimization. I aspire to be a Business Analyst.</h3>
 
 - 🔭 I’m currently working on [BFSI-Credit Card Attrition-ML project](https://github.com/namitawalia/Credit-Card-Attrition)
 
