@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Namita Walia</h1>
 <h3 align="center">I help @Treebo in revenue growth by price optimization. I aspire to be a business analyst.</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namitawalia" alt="namitawalia" /></a> </p>
+
 
 - 🔭 I’m currently working on [BFSI-Credit Card Attrition-ML project](https://github.com/namitawalia/Credit-Card-Attrition)
 
