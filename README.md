@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BFSI-Credit Card Attrition-ML project](https://github.com/namitawalia/Credit-Card-Attrition)
 
-- 🌱 I’m currently learning **Big Data, Hadoop, Apache Spark**
+- 🌱 I’m currently learning **Time Series, Machine Learning, Looker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namitawalia](https://github.com/namitawalia)
 
