@@ -7,17 +7,19 @@
 
 - 🔭 I’m currently working on [BFSI-Credit Card Attrition-ML project](https://github.com/namitawalia/Credit-Card-Attrition)
 
-- 🌱 I’m currently learning **Time Series, Machine Learning, Looker**
+- 🌱 I’m currently learning **Time Series, Machine Learning, Tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namitawalia](https://github.com/namitawalia)
 
-- 📝 I regularly write articles on [https://medium.com/@namitawalia7060_10242](https://medium.com/@namitawalia7060_10242)
+- 📝 I write articles on [https://medium.com/@namitawalia7060_10242](https://medium.com/@namitawalia7060_10242)
 
 - 📫 How to reach me **namitawalia7060@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v_NyDAAScbKRgxKk78xsU-LEAySbzE80/view?usp=drive_link](https://drive.google.com/file/d/1v_NyDAAScbKRgxKk78xsU-LEAySbzE80/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v_NyDAAScbKRgxKk78xsU-LEAySbzE80/view?usp=drive_link)
 
 - ⚡ Fun fact **Artist by Passion**
+
+-  🎨 Check out my artworks on [Behance](https://www.behance.net/namita-walia)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
