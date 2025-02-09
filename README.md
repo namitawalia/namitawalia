@@ -1,6 +1,6 @@
 
 
-<div align="center"> <img src="https://raw.githubusercontent.com/namitawalia/namitawalia/main/github banner.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/namitawalia/namitawalia/main/Black Green Modern Digital Marketing Open to Work LinkedIn Banner.png"> </div>
 <h3 align="center">I help @Treebo in Revenue growth by Price Optimization. I aspire to be a Business Analyst.</h3>
 
 
