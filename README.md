@@ -1,15 +1,15 @@
 
 
 <div align="center"> <img src="https://raw.githubusercontent.com/namitawalia/namitawalia/main/Github banner 2.png"> </div>
-<h3 align="center">I help @Treebo in Revenue growth by Price Optimization. I aspire to be a Business Analyst.</h3>
+<h3 align="center">I drive revenue growth at @Treebo through price optimization. I aspire to be a Data Scientist.</h3>
 
 
 
-- 🔭 I’m currently working on [BFSI-Credit Card Attrition-ML project](https://github.com/namitawalia/Credit-Card-Attrition)
+- 🔭 I’m currently working on [Sales Forecasting using ARIMA](https://github.com/namitawalia/Credit-Card-Attrition)
 
-- 🌱 I’m currently learning **Time Series, Machine Learning, Tableau**
+- 🌱 I’m currently learning **Time Series Analysis, Supervised Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/namitawalia](https://github.com/namitawalia)
+- 👨‍💻 All of my projects are available [here](https://github.com/namitawalia)
 
 - 📝 I write articles on [https://medium.com/@namitawalia7060_10242](https://medium.com/@namitawalia7060_10242)
 
